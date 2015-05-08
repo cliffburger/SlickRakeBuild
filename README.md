@@ -12,3 +12,5 @@ Why?
 Why not?
 ========
 * If you have automated tests that certify your product for deployment and run with guard, this approach is not for you.
+* 
+Now I'm just checking if md changes will be ignored by our CI system.
