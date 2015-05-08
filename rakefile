@@ -39,3 +39,5 @@ task :queue_relevant_builds do
   tc = TeamCityQueueBuild.new()
   tc.add_build_specs_to_queue(build_specs)
 end
+
+# Let's make a change to see if TC trigger rules apply correctly
